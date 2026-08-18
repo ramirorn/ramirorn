@@ -1,26 +1,42 @@
 # 👋 ¡Hola! Soy Ramiro
 
-Soy desarrollador web con experiencia en tecnologías del ecosistema **JavaScript**.  
-Me apasiona crear soluciones simples, eficientes y con buen diseño. 🚀  
+**Desarrollador Full Stack / Software Multiplataforma** 💻
+
+Soy un desarrollador especializado en el ecosistema JavaScript/TypeScript, construyendo aplicaciones tanto del lado del cliente como del servidor. Me apasiona crear soluciones simples, escalables y con un diseño impecable. Siempre busco optimizar el rendimiento y la experiencia del usuario en cada proyecto que construyo. 🚀
+
+### 🛠️ Tecnologías y Herramientas
+
+**Frontend:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Backend & Bases de Datos:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+
+**Herramientas & Despliegue:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
-### 🧰 Tecnologías que uso
+### 🏆 Mis Logros en GitHub
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+[![Trofeos de Ramiro](https://github-profile-trophy.vercel.app/?username=ramirorn&theme=radical&row=1&column=7&no-frame=true&margin-w=15)](https://github.com/ramirorn)
 
----
+### 📬 Conectemos
 
-### 📊 Mis estadísticas de GitHub
+Siempre estoy abierto a conectar con otros profesionales, hablar sobre tecnología o colaborar en nuevos proyectos.
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ramirorn&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ramirorn&layout=compact&theme=tokyonight)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramiro-roman-179702320/)
 
----
-
-⭐ *Gracias por visitar mi perfil :)*
+⭐ _Gracias por visitar mi perfil. ¡Que tengas un excelente día!_
